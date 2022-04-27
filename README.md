@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@temitopeakin1](https://twitter.com/temitopeakin1) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@temitopeakin](https://twitter.com/temitopeakin) for technical updates.
 
 ---
 <div align="center">
